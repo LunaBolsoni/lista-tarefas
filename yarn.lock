@@ -114,7 +114,7 @@
   version "7.14.5"
   resolved "https://registry.nlark.com/@babel/helper-function-name/download/@babel/helper-function-name-7.14.5.tgz?cache=0&sync_timestamp=1623280496655&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40babel%2Fhelper-function-name%2Fdownload%2F%40babel%2Fhelper-function-name-7.14.5.tgz#89e2c474972f15d8e233b52ee8c480e2cfcd50c4"
   integrity sha1-ieLEdJcvFdjiM7Uu6MSA4s/NUMQ=
-  dependencies:
+  dependencies:>
     "@babel/helper-get-function-arity" "^7.14.5"
     "@babel/template" "^7.14.5"
     "@babel/types" "^7.14.5"
@@ -189,7 +189,7 @@
   dependencies:
     "@babel/helper-member-expression-to-functions" "^7.14.5"
     "@babel/helper-optimise-call-expression" "^7.14.5"
-    "@babel/traverse" "^7.14.5"
+    "@babel/traverse"> "^7.14.5"
     "@babel/types" "^7.14.5"
 
 "@babel/helper-simple-access@^7.14.5":
@@ -8478,3 +8478,4 @@ yorkie@^2.0.0:
     is-ci "^1.0.10"
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
+oioioioioio
